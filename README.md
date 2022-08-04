@@ -3,5 +3,5 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1946|[Largest Number After Mutating Substring](https://leetcode.cn/problems/two-sum/) | [C++](./algorithms/cpp/largestNumberAfterMutatingSubstring/LargestNumberAfterMutatingSubstring.cpp)|Medium|
+|1946|[Two Sum](https://leetcode.cn/problems/two-sum/) | [C++](Solution/Two Sum.md)|Easy|
 
