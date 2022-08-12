@@ -10,8 +10,8 @@ public:
         for(int i = 0,j = 0;i < s.size();i++) {
             hashtable[s[i]]++;
             while(hashtable[s[i]] > 1) {
-                hashtable[s[j]]--;
-                j++;
+                hashtable[s[j]]--; 
+                j++; // hashtable[s[j++]]--
             }
             maxLength = max(maxLength,i - j + 1);
         }
