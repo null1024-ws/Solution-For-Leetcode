@@ -17,7 +17,7 @@
 |367|[Valid Perfect Square](https://leetcode.cn/problems/valid-perfect-square/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/aea992c0b73eca32401a3749169641f09b1f27cd/Solution/Valid%20Perfect%20Square.md)|Easy|
 |374|[Guess Number Higher or Lower](https://leetcode.cn/problems/sqrtx/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/c26c6372d84bd9a00d3749b6983d4f4f0c6c4798/Solution/Guess%20Number%20Higher%20or%20Lower.md)|Easy|
 |658|[Find K Closest Elements](https://leetcode.cn/problems/find-k-closest-elements/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/1e7d669a0657b15964e64079e3888397f1d3e4e5/Solution/Find%20K%20Closest%20Elements.md)|Medium|
-|704|[Binary Search](https://leetcode.cn/problems/guess-number-higher-or-lower/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/e772b3513dfc4c3131aae412c6ca273abc2310da/Solution/Binary%20Search.md)|Easy|
+|704|[Binary Search]([https://leetcode.cn/problems/guess-number-higher-or-lower/](https://leetcode.cn/problems/binary-search/)) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/e772b3513dfc4c3131aae412c6ca273abc2310da/Solution/Binary%20Search.md)|Easy|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.cn/problems/find-smallest-letter-greater-than-target/) | [C++](
 https://github.com/null1024-ws/Solution-For-Leetcode/blob/e9e7c5d4daedfc6df2d839ec3879a6823feb07b7/Solution/Find%20Smallest%20Letter%20Greater%20Than%20Target.md)|Easy|
 
