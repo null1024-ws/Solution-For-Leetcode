@@ -9,6 +9,7 @@
 |4|[Median of Two Sorted Arrays](https://leetcode.cn/problems/median-of-two-sorted-arrays/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/1291804a3b7fea850905745be6044b63286c3ec7/Solution/Median%20of%20Two%20Sorted%20Arrays.md)|Hard|
 |33|[Median of Two Sorted Arrays](https://leetcode.cn/problems/search-in-rotated-sorted-array/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/a290c20a428fc8ab3899ea0c58e25932d2396c13/Solution/Search%20in%20Rotated%20Sorted%20Array.md)|Medium|
 |69|[Sqrt(x)](https://leetcode.cn/problems/sqrtx/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/bd6e38ac8e97230e8b9925a48f10af93b399bf89/Solution/Sqrt(x).md)|Easy|
+|278|[First Bad Version](https://leetcode.cn/problems/first-bad-version/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/ade81302320ad8f111a8fb19ec36a2fd95e52811/Solution/First%20Bad%20Version.md)|Easy|
 |374|[Guess Number Higher or Lower](https://leetcode.cn/problems/sqrtx/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/c26c6372d84bd9a00d3749b6983d4f4f0c6c4798/Solution/Guess%20Number%20Higher%20or%20Lower.md)|Easy|
 |704|[Binary Search](https://leetcode.cn/problems/guess-number-higher-or-lower/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/e772b3513dfc4c3131aae412c6ca273abc2310da/Solution/Binary%20Search.md)|Easy|
 
