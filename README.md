@@ -15,7 +15,6 @@
 |278|[First Bad Version](https://leetcode.cn/problems/first-bad-version/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/ade81302320ad8f111a8fb19ec36a2fd95e52811/Solution/First%20Bad%20Version.md)|Easy|
 |374|[Guess Number Higher or Lower](https://leetcode.cn/problems/sqrtx/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/c26c6372d84bd9a00d3749b6983d4f4f0c6c4798/Solution/Guess%20Number%20Higher%20or%20Lower.md)|Easy|
 |658|[Find K Closest Elements](https://leetcode.cn/problems/find-k-closest-elements/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/1e7d669a0657b15964e64079e3888397f1d3e4e5/Solution/Find%20K%20Closest%20Elements.md)|Medium|
-
 |704|[Binary Search](https://leetcode.cn/problems/guess-number-higher-or-lower/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/e772b3513dfc4c3131aae412c6ca273abc2310da/Solution/Binary%20Search.md)|Easy|
 
 
