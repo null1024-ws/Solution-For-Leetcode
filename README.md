@@ -7,5 +7,5 @@
 |2|[Add Two Numbers](https://leetcode.cn/problems/add-two-numbers/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/75ea212546d6d0e1f853b9d4f0e1df61960a6ed7/Solution/Add%20Two%20Numbers.md)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/f181062e091d44d507ab58f015c5dab414d75495/Solution/Longest%20Substring%20Without%20Repeating%20Characters.md)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.cn/problems/median-of-two-sorted-arrays/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/1291804a3b7fea850905745be6044b63286c3ec7/Solution/Median%20of%20Two%20Sorted%20Arrays.md)|Hard|
-|69|[Sqrt(x)](https://leetcode.cn/problems/sqrtx/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/e772b3513dfc4c3131aae412c6ca273abc2310da/Solution/Binary%20Search.md)|Easy|
+|69|[Sqrt(x)](https://leetcode.cn/problems/sqrtx/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/bd6e38ac8e97230e8b9925a48f10af93b399bf89/Solution/Sqrt(x).md)|Easy|
 |704|[Binary Search](https://leetcode.cn/problems/binary-search/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/e772b3513dfc4c3131aae412c6ca273abc2310da/Solution/Binary%20Search.md)|Easy|
