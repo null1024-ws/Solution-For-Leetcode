@@ -1,5 +1,5 @@
 ``` C++
-  class Solution {
+class Solution {
 public:
     int getNumber(vector<int>&nums,int mid) {
         int res = 0;
