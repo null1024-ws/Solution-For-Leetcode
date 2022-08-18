@@ -1,9 +1,5 @@
 ## Some Notes in Writing LeetCode
 
-### 前言
-
-主要记录一些在刷LeetCode题目时自己的笔记
-
 学习路线：[代码随想录](https://www.programmercarl.com/)
 -----------------------------------------------------------
 
