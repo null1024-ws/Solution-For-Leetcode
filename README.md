@@ -28,4 +28,4 @@
 |704|[Binary Search](https://leetcode.cn/problems/binary-search/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/e772b3513dfc4c3131aae412c6ca273abc2310da/Solution/Binary%20Search.md)|Easy|
 |719|[Find K-th Smallest Pair Distance](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/ed7590a178118e4debeba33404aa8ac06a71a958/Solution/Find%20K-th%20Smallest%20Pair%20Distance.md)|Hard|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.cn/problems/find-smallest-letter-greater-than-target/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/ab675b65b5e5f3ea171e8049cab7e3460f2a615b/Solution/Find%20Smallest%20Letter%20Greater%20Than%20Target.md)|Easy|
-|746|[Min Cost Climbing Stairs](https://leetcode.cn/problems/min-cost-climbing-stairs/) | [C++](./Min Cost Climbing Stairs.md)|Easy|DP|
+|746|[Min Cost Climbing Stairs](https://leetcode.cn/problems/min-cost-climbing-stairs/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/1279fcf2a7df8b6ee2ddcd9a61d2c4e80be39b4b/Solution/Min%20Cost%20Climbing%20Stairs.md)|Easy|Dynamic Programming|
