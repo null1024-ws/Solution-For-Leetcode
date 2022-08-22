@@ -1,4 +1,4 @@
-### Solution 1
+## Solution 1
 ``` C++
 class Solution {
 public:
@@ -40,7 +40,7 @@ public:
     }
 };
 ```
-### Solution 2
+## Solution 2
 ``` C++
 class Solution {
 public:
