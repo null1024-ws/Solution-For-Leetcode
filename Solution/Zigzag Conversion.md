@@ -1,3 +1,4 @@
+### Solution 1
 ``` C++
 class Solution {
 public:
@@ -39,7 +40,7 @@ public:
     }
 };
 ```
-
+### Solution 2
 ``` C++
 class Solution {
 public:
