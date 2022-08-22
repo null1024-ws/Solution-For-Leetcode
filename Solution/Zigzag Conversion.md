@@ -38,4 +38,31 @@ public:
     return res;
     }
 };
-`
+
+``` C++
+class Solution {
+public:
+    string convert(string s, int numRows) {
+        const int strSize = s.size();
+        const int checkNumber = 2 * numRows - 2;
+        if(numRows == 1 || numRows > strSize) {
+            return s;
+        }
+        std::string res;
+        for(int i = 0;i < numRows;++i) {
+            if(i ==0 || i == numRows - 1) {
+                for(int j = i;j < strSize;j = j + checkNumber) {
+                    res += s[j];
+                }
+            }
+        else {
+            for(int j = i,k = checkNumber - j;j < strSize || k < strSize;j += checkNumber,k += checkNumber) {
+                if(j < s.size()) res += s[j];
+                if(k < s.size()) res += s[k];
+            }
+        }
+    }
+    return res;
+    }
+};
+```
