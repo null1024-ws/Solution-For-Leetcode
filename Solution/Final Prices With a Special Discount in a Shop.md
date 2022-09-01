@@ -8,7 +8,7 @@ public:
             int checkNumber = 0;
             for(int j = i + 1;j < n;++j) {
                 int minusNumber = prices[j] - prices[i];
-                 if(minusNumber <= 0) {
+                if(minusNumber <= 0) {
                     checkNumber = prices[j];
                     break;
                 }
