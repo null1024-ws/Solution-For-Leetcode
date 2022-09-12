@@ -31,7 +31,7 @@ public:
     }
 };
 ```
-### Divide and Conquer
+### Solution 2 Divide and Conquer
 ``` C++
 class Solution {
 public:
