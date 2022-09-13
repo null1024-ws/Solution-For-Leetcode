@@ -37,6 +37,7 @@
 |410|[Split Array Largest Sum](https://leetcode.cn/problems/split-array-largest-sum/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/e5a98cd32cea132e892733696e842fed807ac592/Solution/Split%20Array%20Largest%20Sum.md)|Hard|
 |498|[Diagonal Traverse](https://leetcode.cn/problems/diagonal-traverse/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/2ac9bdb82e9bf43bb116a09cadc07b7ee4e7e69a/Solution/Diagonal%20Traverse.md)|Medium|Array|
 |509|[Fibonacci Number](https://leetcode.cn/problems/fibonacci-number/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/6fd5359715906386646c71ada091a8190b09a1e9/Solution/Fibonacci%20Number.md)|Easy|
+|561|[Array Partition](https://leetcode.cn/problems/array-partition/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/283e8b0d412e5e71642f9a5d203fee91d745001a/Solution/Array%20Partition.md)|Easy|Math|
 |658|[Find K Closest Elements](https://leetcode.cn/problems/find-k-closest-elements/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/1e7d669a0657b15964e64079e3888397f1d3e4e5/Solution/Find%20K%20Closest%20Elements.md)|Medium|
 |670|[Maximum Swap](https://leetcode.cn/problems/maximum-swap/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/4cbeed67bef5f8e9448301da800e79a9e19911ca/Solution/Maximum%20Swap.md)|Medium|Math|
 |704|[Binary Search](https://leetcode.cn/problems/binary-search/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/e772b3513dfc4c3131aae412c6ca273abc2310da/Solution/Binary%20Search.md)|Easy|
