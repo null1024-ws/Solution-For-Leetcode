@@ -5,7 +5,7 @@ public:
         string numTostring = to_string(num);
         int n = numTostring.size();
         //从前往后遍历，如果第一位比后面的都大，则继续遍历到第二位 --> 借助flag
-        //如果比后面的小，则遍历完剩余的字符串，将其与剩余最大的数字交换 --> 借助temp
+        //如果比后面的小，则遍历完剩余的字符串，将其与剩余最大的数字且尽可能最低位交换 --> 借助temp
         bool flag = true;
         int count = 0;
         for(int i = 0;i < n;++i) {
