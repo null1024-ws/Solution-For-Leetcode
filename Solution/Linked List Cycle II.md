@@ -23,7 +23,7 @@ public:
     }
 };
 ```
-Solution 2 Two Pointers
+### Solution 2 Two Pointers
 ``` C++
 /**
  * Definition for singly-linked list.
