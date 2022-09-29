@@ -66,3 +66,5 @@
 |1652|[Defuse the Bomb](https://leetcode.cn/problems/defuse-the-bomb/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/ccaedd61fc0d3cc52eef5350602b3cf6399b306c/Solution/Defuse%20the%20Bomb.md)|Easy|Array|
 |面试题 01.02|[Check Permutation LCCI](https://leetcode.cn/problems/check-permutation-lcci/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/ed0d1a692bce0c48d837159160d6c86235eb129f/Solution/Check%20Permutation%20LCCI.md)|Easy|String|
 |面试题 01.08|[Zero Matrix LCCI](https://leetcode.cn/problems/zero-matrix-lcci/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/a302664f2203e3343df24e3308505cc9c6f77e7d/Solution/Zero%20Matrix%20LCCI.md)|Medium|Array|
+|面试题 01.09|[String Rotation LCCI](https://leetcode.cn/problems/string-rotation-lcci/) | [C++](https://github.com/null1024-ws/Solution-For-Leetcode/blob/a87662c9387e881f8bee60931730d08f5d7c4a00/Solution/String%20Rotation%20LCCI.md)|Easy|String|
+
