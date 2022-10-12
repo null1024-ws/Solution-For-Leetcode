@@ -20,7 +20,7 @@ public:
         ListNode* even = evenHead; // copy
         while(even != nullptr && even->next != nullptr) {
             oddHead->next = even->next;
-            oddHead = oddHead->next;
+            oddHead = oddHead->next; //oddHead 变成 even 的后一个节点
             even->next = oddHead->next;
             even = even->next;
         }
